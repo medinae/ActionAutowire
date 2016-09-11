@@ -38,11 +38,23 @@ class AppKernel extends Kernel
 ```php
 class SomeController
 {
-    private $someClass;
-
     public function detailAction(SomeClass $someClass)
     {
-        $this->someClass = $someClass;
+        $someClass->someMethod();
+        // ...
+    }
+}
+```
+
+This is especially convenient when moving from *named services* to *constructor injection*: 
+
+```php
+class SomeController extends Controller
+{
+    public function detailAction()
+    {
+        $someClass = $this->get('some_service');
+        // ...
     }
 }
 ```
