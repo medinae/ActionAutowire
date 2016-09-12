@@ -4,7 +4,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/Symplify/ActionAutowire.svg?style=flat-square)](https://scrutinizer-ci.com/g/Symplify/ActionAutowire)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/Symplify/ActionAutowire.svg?style=flat-square)](https://scrutinizer-ci.com/g/Symplify/ActionAutowire)
 [![Downloads](https://img.shields.io/packagist/dt/symplify/action-autowire.svg?style=flat-square)](https://packagist.org/packages/symplify/action-autowire)
-[![Latest stable](https://img.shields.ěio/packagist/v/symplify/action-autowire.svg?style=flat-square)](https://packagist.org/packages/symplify/action-autowire)
+[![Latest stable](https://img.shields.io/packagist/v/symplify/action-autowire.svg?style=flat-square)](https://packagist.org/packages/symplify/action-autowire)
 
 
 This bundle **enables action autowiring for controllers**.
