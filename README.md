@@ -1,4 +1,4 @@
-# Controller Autowire
+# Action Autowire
 
 [![Build Status](https://img.shields.io/travis/Symplify/ActionAutowire.svg?style=flat-square)](https://travis-ci.org/Symplify/ActionAutowire)
 [![Quality Score](https://img.shields.io/scrutinizer/g/Symplify/ActionAutowire.svg?style=flat-square)](https://scrutinizer-ci.com/g/Symplify/ActionAutowire)
